@@ -38,4 +38,3 @@ counting, and video analytics.
 ## Email
 - nkwedegideon790@gmail.com 
 
-### 📫 Contact
